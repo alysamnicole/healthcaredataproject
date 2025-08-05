@@ -1,0 +1,17 @@
+CREATE TABLE healthcare_data (
+    Name TEXT,
+    Age INTEGER,
+    Gender TEXT,
+    Blood_Type TEXT,
+    Medical_Condition TEXT,
+    Date_of_Admission DATE,
+    Doctor TEXT,
+    Hospital TEXT,
+    Insurance_Provider TEXT,
+    Billing_Amount REAL,
+    Room_Number INTEGER,
+    Admission_Type TEXT,
+    Discharge_Date DATE,
+    Medication TEXT,
+    Test_Results TEXT,
+);
